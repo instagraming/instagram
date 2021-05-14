@@ -1,0 +1,256 @@
+body {
+    background-color: #efeee8;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner {
+    align-self: center;
+    width: 100%;
+    height: 44px;
+    padding: 1px;
+    text-align: left;
+    background-color: indigo;
+}
+
+#accunt {
+    margin-top: 1px;
+    color: indigo;
+}
+
+.uxKLF {
+    max-width: 100%;
+    margin-top: 10%;
+}
+
+.APQil {
+    width: auto;
+    height: auto;
+}
+
+.iNy2T {
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    border: 0 solid #000;
+    box-sizing: border-box;
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 60px;
+    padding: 0;
+    position: relative;
+}
+
+.K50FK {
+    display: inline-block;
+    margin-bottom: 7px;
+    margin-right: 19px;
+}
+
+.Dinpa {
+    float: left;
+    margin-left: 6%;
+}
+
+a,
+a:visited {
+    color: #00376b;
+    color: rgba(var(--fe0, 0, 55, 107), 1);
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+ul {
+    list-style: none;
+}
+
+.sDN5V {
+    --i1d: 38, 38, 38;
+    --edc: 199, 199, 199;
+    --f75: 38, 38, 38;
+    --fe0: 0, 55, 107;
+    --d87: 255, 255, 255;
+    --b3f: 250, 250, 250;
+    --bb2: 239, 239, 239;
+    --f23: 255, 255, 255;
+    --b38: 219, 219, 219;
+    --b6a: 219, 219, 219;
+    --ca6: 219, 219, 219;
+    --cdd: 38, 38, 38;
+    --e22: 199, 199, 199;
+    --e62: 245, 251, 255;
+    --b2f: 88, 195, 34;
+    --c8c: 168, 168, 168;
+    --ce3: 239, 239, 239;
+    --jd9: 0, 0, 0;
+    --j64: 54, 54, 54;
+    --a97: 243, 243, 243;
+    --d20: 38, 38, 38;
+}
+
+.ekjoN,
+.sDN5V {
+    --f52: 142, 142, 142;
+    --h1d: 255, 255, 255;
+    --de5: 255, 255, 255;
+    --d69: 0, 149, 246;
+    --b86: 88, 195, 34;
+    --i30: 237, 73, 86;
+    --d62: 255, 255, 255;
+    --e4f: 54, 54, 54;
+    --a72: 255, 255, 255;
+    --ie3: 142, 142, 142;
+    --c37: 237, 73, 86;
+    --f24: 0, 149, 246;
+    --jbb: 53, 121, 234;
+    --eca: 255, 255, 255;
+    --jb7: 0, 0, 0;
+    --fa7: 224, 241, 255;
+    --ba8: 168, 168, 168;
+    --eac: 237, 73, 86;
+}
+
+.RENK {
+    color: grey;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.logo {
+    margin-left: 0%;
+    margin-right: 0%;
+    align-self: center;
+    margin-top: 8px;
+    width: 110px;
+    height: 35px;
+    position: static;
+    background-attachment: fixed;
+}
+
+.home {
+    margin-left: 5px;
+    margin-bottom: 9px;
+    margin-top: 9px;
+    width: 28px;
+    height: 24px;
+    float: left;
+    background-attachment: fixed;
+}
+
+.user {
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-right: 0%;
+    width: 26px;
+    height: 25px;
+    float: right;
+    background-attachment: fixed;
+}
+
+.btn {
+    background-color: indigo;
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 90px;
+    height: 35px;
+    border-radius: 3px;
+    margin-top: 5px;
+    margin-right: 1px;
+    border: none;
+    background-attachment: fixed;
+    margin-bottom: 10px;
+}
+
+.btn-left {
+    float: right;
+    background-attachment: fixed;
+}
+
+.stil {
+    width: 100%;
+    height: 450px;
+    background-color: #efeee8;
+}
+
+.form-group {
+    margin-left: 25px;
+    margin-bottom: 1px;
+    margin-top: 40px;
+}
+
+.form-control {
+    width: 290px;
+    padding: 10px;
+    color: black;
+    border-radius: 3px;
+    border: 1px solid #00376b;
+}
+
+.form-control:focus {
+    border: 1px solid #00376b;
+}
+
+.title {
+    color: indigo;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    margin-left: 17px;
+}
+
+.Rt8TI {
+    width: 136px;
+    height: 40px;
+    margin-left: 20px;
+    float: right;
+}
+
+.title2 {
+    color: black;
+    font-weight: 200;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.ml-3 {
+    margin-left: 10px;
+}
+
+.btn1 {
+    background-color: indigo;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 316px;
+    height: 40px;
+    border-radius: 3px;
+    border: none;
+    margin-top: 12px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .35);
+    margin-left: 23px;
+}
+
+.z1VUo {
+    margin-right: 8px;
+}
+
+a,
+a:visited {
+    color: indigo;
+    color: rgba(var(--fe0, 0, 55, 107), 1);
+    text-decoration: none;
+}
